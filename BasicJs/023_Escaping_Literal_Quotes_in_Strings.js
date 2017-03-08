@@ -1,4 +1,6 @@
-﻿// What happens when you need a literal quote: " or ' inside of your string?
+﻿// Homework
+
+// What happens when you need a literal quote: " or ' inside of your string?
 // var sampleStr = "Alan said, \"Peter is learning JavaScript\".";
 // When printed to console it writes: 
 

@@ -1,4 +1,6 @@
-﻿// Correct the assignment to myStr to achieve the desired effect.
+﻿// Homework
+
+// Correct the assignment to myStr to achieve the desired effect.
 
 // var myStr = "Bob";
 // myStr[0] = "J"; // Doesn't work
