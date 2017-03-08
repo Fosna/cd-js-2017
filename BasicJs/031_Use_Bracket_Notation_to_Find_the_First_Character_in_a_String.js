@@ -1,4 +1,8 @@
-﻿
+﻿// Use bracket notation to find the first character in the lastName variable and assign it to firstLetterOfLastName.
+
+// Hint
+// Try looking at the firstLetterOfFirstName variable declaration if you get stuck.
+
 // Example
 var firstLetterOfFirstName = "";
 var firstName = "Ada";
