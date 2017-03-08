@@ -1,9 +1,9 @@
-﻿// Good examples 
+﻿// Homework
+
+// Good examples 
 // var someVariable;
 // var anotherVariableName;
 // var thisVariableNameIsTooLong;
-
-// Skip this exercise
 
 // Modify the existing declarations and assignments so their names use camelCase.
 // Do not create any new variables.
