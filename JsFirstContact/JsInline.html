@@ -7,13 +7,13 @@
     <p>JavaScript can change HTML attributes.</p>
     <p>In this case JavaScript changes the src (source) attribute of an image.</p>
  
-    <button onclick="console.log('Turn on the light clicked');">
+    <button onclick="document.getElementById('myImage').src='pic_bulbon.gif';">
         Turn on the light
     </button>
  
     <img id="myImage" src="pic_bulboff.gif" style="width:100px">
  
-    <button>
+    <button onclick="console.log('Turn off the light clicked');">
         Turn off the light
     </button>
  
