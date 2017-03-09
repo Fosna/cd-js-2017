@@ -1,2 +1,0 @@
-# First contact with jQuery
-
