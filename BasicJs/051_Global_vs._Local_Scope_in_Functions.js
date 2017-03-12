@@ -1,4 +1,5 @@
-﻿
+﻿// Add a local variable to myOutfit to override the value of outerWear with "sweater".
+
 // Setup
 var outerWear = "T-Shirt";
 

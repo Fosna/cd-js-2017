@@ -1,4 +1,8 @@
-﻿
+﻿// Skip forever. Not a good example.
+
+// Declare a local variable myVar inside myLocalScope. Run the tests and then follow the instructions commented out in the editor.
+
+
 function myLocalScope() {
   'use strict';
   
