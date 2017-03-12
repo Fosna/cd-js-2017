@@ -1,4 +1,7 @@
-﻿
+﻿// Homework
+
+// Use the .shift() function to remove the first item from myArray, assigning the "shifted off" value to removedFromMyArray.
+
 // Example
 var ourArray = ["Stimpson", "J", ["cat"]];
 removedFromOurArray = ourArray.shift();

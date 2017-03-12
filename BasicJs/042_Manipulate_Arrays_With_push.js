@@ -1,4 +1,5 @@
-﻿
+﻿// Push ["dog", 3] onto the end of the myArray variable.
+
 // Example
 var ourArray = ["Stimpson", "J", "cat"];
 ourArray.push(["happy", "joy"]); 
