@@ -32,4 +32,12 @@ undefined
 [ 'ant', 'bee', 'dog', 'eagle' ]
 > jsStudents[jsStudents.length - 1]
 'eagle'
+> jsStudents.pop()
+'eagle'
+> jsStudents
+[ 'ant', 'bee', 'dog' ]
+> jsStudents.pop()
+'dog'
+> jsStudents
+[ 'ant', 'bee' ]
 >
