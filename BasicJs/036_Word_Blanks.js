@@ -1,4 +1,6 @@
-﻿// You will need to use string operators to build a new string, result, using the provided variables: myNoun, myAdjective, myVerb, and myAdverb.
+﻿// Get back to it after functions are done.
+
+// You will need to use string operators to build a new string, result, using the provided variables: myNoun, myAdjective, myVerb, and myAdverb.
 
 // This is your basic string. Use function wordBlanks to fill the blanks.
 
@@ -29,6 +31,6 @@ function wordBlanks(myNoun, myAdjective, myExclamanation, myAdverb) {
 }
 
 // Change the words here to test your function
-wordBlanks("cat", "brave", "ouch", "stupidly");
-wordBlanks("dog", "big", "wow", "quickly");
-wordBlanks("cat", "little", "hey", "slowly");
+console.log(wordBlanks("cat", "brave", "ouch", "stupidly"));
+console.log(wordBlanks("dog", "big", "wow", "quickly"));
+console.log(wordBlanks("cat", "little", "hey", "slowly"));
