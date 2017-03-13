@@ -37,3 +37,4 @@ var bee = function() {
 }
 bee();
 
+// Do scope demo first. After that students should work on exercises.

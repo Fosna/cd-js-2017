@@ -41,3 +41,6 @@ undefined
 > jsStudents
 [ 'ant', 'bee' ]
 >
+
+
+Exercises up to and including 054_Stand_in_Line.js

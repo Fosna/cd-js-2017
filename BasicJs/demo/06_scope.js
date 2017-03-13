@@ -32,3 +32,6 @@ function myFavoriteColor() {
 }
 
 console.log(color);
+
+
+// Exercises up to and including 054_Stand_in_Line.js
