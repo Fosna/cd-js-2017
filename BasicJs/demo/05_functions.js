@@ -24,7 +24,8 @@ foo("cow", "dog");
 
 // Function can return value.
 function sum(x, y) {
-    return x + y;
+    var sumResult = x + y;
+    return sumResult;
 }
 
 var ant = sum(5, 10);

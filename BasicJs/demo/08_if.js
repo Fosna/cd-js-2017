@@ -27,3 +27,7 @@ verifyApplication(15);
 verifyApplication(21);
 verifyApplication(30);
 verifyApplication(45);
+
+
+// Students should execute it on paper.
+// Exercises up to and including 071_Golf_Code.

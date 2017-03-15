@@ -4,12 +4,24 @@ function myFavoriteColor() {
 }
 
 // 1 demonstrate working scenario
-myFavoriteColor();
+myFavoriteColor(); // Lime
 
 // 2 try to access variable when it's out of scope
-console.log(color);
+console.log(color); // Error
 
 // 3 declare color as global variable
+function myFavoriteColor() {
+    color = "Lime";
+    console.log(color);
+}
+
+// 3.1 try to read color
+console.log(color); // Error
+
+// 3.2
+myFavoriteColor();
+console.log(color); // Lime
+
 
 
 // Global vs local - local variable wins.
