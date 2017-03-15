@@ -1,4 +1,5 @@
-﻿
+﻿// Skip forever.
+
 // Setup
 function phoneticLookup(val) {
   var result = "";

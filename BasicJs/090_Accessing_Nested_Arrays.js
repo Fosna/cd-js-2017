@@ -1,4 +1,5 @@
-﻿
+﻿// Skip. Advanced topic.
+
 // Setup
 var myPlants = [
   { 
