@@ -1,4 +1,12 @@
-﻿
+﻿// Combine the if statements into a single if/else statement.
+
+// Example
+// if (num > 10) {
+//   return "Bigger than 10";
+// } else {
+//   return "10 or Less";
+// }
+
 function testElse(val) {
   var result = "";
   // Only change code below this line

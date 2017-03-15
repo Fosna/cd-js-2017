@@ -1,4 +1,7 @@
-﻿
+﻿// Homework
+
+// Add the less than operator to the indicated lines so that the return statements make sense.
+
 function testLessThan(val) {
   if (val) {  // Change this line
     return "Under 25";

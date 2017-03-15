@@ -1,4 +1,5 @@
-﻿
+﻿// Add the strict inequality operator to the if statement so the function will return "Not Equal" when val is not strictly equal to 17
+
 // Setup
 function testStrictNotEqual(val) {
   // Only Change Code Below this Line

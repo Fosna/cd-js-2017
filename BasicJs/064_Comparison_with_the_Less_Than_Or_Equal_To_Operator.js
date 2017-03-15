@@ -1,4 +1,7 @@
-﻿
+﻿// Homework
+
+// Comparison with the Less Than Or Equal To Operator
+
 function testLessOrEqual(val) {
   if (val) {  // Change this line
     return "Smaller Than or Equal to 12";

@@ -1,4 +1,7 @@
-﻿
+﻿// Homework
+
+// Add the greater than operator to the indicated lines so that the return statements make sense.
+
 function testGreaterThan(val) {
   if (val) {  // Change this line
     return "Over 100";
