@@ -1,4 +1,5 @@
-﻿
+﻿// Skip forever. Switch statement is evil.
+
 function caseInSwitch(val) {
   var answer = "";
   // Only change code below this line
