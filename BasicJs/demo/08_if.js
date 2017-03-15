@@ -30,4 +30,4 @@ verifyApplication(45);
 
 
 // Students should execute it on paper.
-// Exercises up to and including 071_Golf_Code.
+// Exercises up to and including 078_Counting_Cards.

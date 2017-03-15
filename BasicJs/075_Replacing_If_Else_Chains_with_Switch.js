@@ -1,4 +1,5 @@
-﻿
+﻿// Skip forever. Switch statement is evil.
+
 function chainToSwitch(val) {
   var answer = "";
   // Only change code below this line
