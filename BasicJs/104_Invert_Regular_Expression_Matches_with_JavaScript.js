@@ -1,4 +1,5 @@
-﻿
+﻿// Skip 
+
 // Setup
 var testString = "How many non-space characters are there in this sentence?";
 

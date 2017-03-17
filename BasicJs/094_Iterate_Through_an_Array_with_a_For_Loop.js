@@ -1,4 +1,5 @@
-﻿
+﻿// Declare and initialize a variable total to 0. Use a for loop to add the value of each element of the myArr array to total.
+
 // Example
 var ourArr = [ 9, 10, 11, 12];
 var ourTotal = 0;

@@ -1,4 +1,5 @@
-﻿
+﻿// Skip for now. Advanced topic.
+
 function multiplyAll(arr) {
   var product = 1;
   // Only change code below this line

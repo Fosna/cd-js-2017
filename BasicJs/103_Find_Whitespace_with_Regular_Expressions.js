@@ -1,4 +1,5 @@
-﻿
+﻿// Skip 
+
 // Setup
 var testString = "How many spaces are there in this sentence?";
 

@@ -1,4 +1,5 @@
-﻿
+﻿// Skip 
+
 // Example
 function ourRandomRange(ourMin, ourMax) {
 

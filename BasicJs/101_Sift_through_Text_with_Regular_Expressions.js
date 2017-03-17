@@ -1,4 +1,5 @@
-﻿
+﻿// Skip 
+
 // Setup
 var testString = "Ada Lovelace and Charles Babbage designed the first computer and the software that would have run on it.";
 
