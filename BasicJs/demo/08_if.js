@@ -14,7 +14,7 @@ verifyCanBuyAlcohol(70);
 
 function verifyApplication(age) {
     if (age < 15) {
-        console.log("Good, but not perfect.");
+        console.log("Good, but a bit young.");
     } else if (age <= 30) {
         console.log("Perfect");
     } else {
