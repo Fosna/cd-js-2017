@@ -20,8 +20,8 @@
 //   }
 // }
 
-// foo();
-// bar();
+// foo(1);
+// bar(1);
 
 
 // Next exercise
